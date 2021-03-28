@@ -50,7 +50,7 @@ target_include_directories(CPP
 
 #target_link_libraries(demo ${PROJECT_NAME})
 
-target_link_libraries(lab6 Boost::log)
+target_link_libraries(CPP Boost::log)
 
 #if(BUILD_TESTS)
   #add_executable(tests
