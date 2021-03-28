@@ -40,7 +40,7 @@ add_library(CPP STATIC
   ${CMAKE_CURRENT_SOURCE_DIR}/sources/CPP.cpp
 )
 
-add_executable(CPP
+add_executable(lab6
  ${CMAKE_CURRENT_SOURCE_DIR}/sources/CPP.cpp
 )
 
